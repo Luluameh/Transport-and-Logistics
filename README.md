@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+I recently had the opportunity or should i say i got blessed to apply for a React internship position, and as part of the application process, I was required to complete a React test. The test was designed to assess my skills and knowledge of React and web development in general.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this README, I'll be sharing my experience and the challenges I faced while working on the React test.
+The React test comprised a series of tasks that required me to build a web application without a settings for mobile view using React.
+The application was strickly on finding my skills on pixels perfect that is to be able to get a perfect size, images and all that was entail by the ui/ux.
 
-## Available Scripts
+The test involved the following tasks:
+\*working on a Transport and Logistics webflow website
 
-In the project directory, you can run:
+Challenges Faced
+Hmmm the challenges i face was quite out of the regular although i dont see it as a challenges again instead a draw to the my capabilities and capacity to work under pressure and and also to be able to create and thing of ways to solve and face my million thoughts and fears .
 
-### `npm start`
+-Time Constraints : At first the time was short but i want to say thank you to the Team for extending the time of submission it helped me in fixing some of my codes issues(bugs and errors)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Conclusion
+Overall, the React test was a challenging but rewarding experience. I was able to showcase my skills and knowledge of React and web development in general. The test also gave me the opportunity to learn and grow as a developer.
+And ooo the Ui/ux designers like wow the design of the work helped to cover every aspect and areas of coding
+I want to Thank the whole Team at Nupat Technology for this it was worth it and a wake up call to do more .
