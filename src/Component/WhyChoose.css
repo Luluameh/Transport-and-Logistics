@@ -1,0 +1,85 @@
+.Segment-main {
+  margin-top: 4rem;
+  display: flex;
+  width: 100%;
+  height: 90vh;
+}
+
+.sub-seg1 {
+  background-color: #091242;
+  width: 50%;
+  position: relative;
+  z-index: -2;
+}
+
+.sub-seg2 {
+  background-color: #f4f4f4;
+  z-index: -3;
+  width: 50%;
+  position: relative;
+}
+
+.airplane-img {
+  height: 26.125em;
+  width: 40em;
+  margin-top: 4.875em;
+  margin-left: 4.8em;
+  position: absolute;
+  z-index: -1;
+}
+
+.airplane-tag {
+  height: 3rem;
+  margin-top: 15px;
+}
+
+.tag {
+  display: flex;
+  background: linear-gradient(to right, #ffb629, #ffda56, #ffd7a6);
+  padding: 10px;
+  width: 37%;
+  position: absolute;
+  margin-top: 25.7em;
+  margin-left: 20em;
+}
+
+.tag-text {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.inner-seg {
+  padding: 12%;
+  margin-left: 4%;
+}
+
+.lower {
+  display: flex;
+}
+.item1 {
+  display: flex;
+  padding: 8px;
+}
+.item-tags {
+  padding: 20px 10px;
+}
+.tag-unit {
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 19%;
+  padding: 2px;
+  height: 3%;
+  border-left: 5px solid orange;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.header-unit {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.text-unit {
+  width: 80%;
+  color: gray;
+}

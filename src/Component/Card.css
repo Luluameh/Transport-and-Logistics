@@ -1,0 +1,80 @@
+.card-main {
+  margin-top: 8rem;
+  text-align: center;
+}
+.title {
+  display: flex;
+  padding-bottom: 6px;
+  justify-content: center;
+  align-items: center;
+}
+.img-side {
+  margin-left: 29rem;
+}
+.testi {
+  font-size: small;
+  background-color: rgba(151, 153, 168, 0.25);
+  border-left: 5px solid orange;
+  height: 1em;
+  width: 4.7em;
+  padding-top: 0;
+  margin-left: 12rem;
+}
+/* card side*/
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border: none;
+  padding: 40px;
+  width: 70%;
+}
+.gray-bg {
+  background-color: #eaebf3;
+}
+.blue-bg {
+  background-color: #091242;
+  color: #eaebf3;
+}
+
+.card-header {
+  font-size: 15px;
+  padding: 5px;
+  display: flex;
+}
+
+.card-body {
+  padding: 10px;
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.share {
+  display: flex;
+}
+.three-lines {
+  font-size: small;
+  width: 20rem;
+  color: #666c89;
+  height: 5%;
+}
+.three-line {
+  font-size: small;
+  width: 20rem;
+  color: #eaebf3;
+  height: 5%;
+}
+
+.side-im {
+  margin-left: 1.5rem;
+}
+.mid {
+  margin-top: 1rem;
+  padding: 5px;
+}
+.infor-T {
+}

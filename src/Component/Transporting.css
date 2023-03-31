@@ -1,0 +1,48 @@
+.trans {
+  margin-top: 29.7rem;
+  text-align: center;
+}
+.sample-img {
+  margin: 0 auto;
+  width: 85.5%;
+}
+.imgGrid {
+  height: 18rem;
+  width: 11.7rem;
+  padding: 4.5px;
+  transition: transform 0.27s ease-in-out;
+}
+.imgGrid:hover {
+  transform: scale(1.1);
+  transition: all 0.45s ease;
+}
+.low-con {
+  margin-top: -9rem;
+  z-index: -1;
+  position: absolute;
+  height: 36%;
+  width: 100%;
+  background: linear-gradient(to right, #ffb629, #ffda56, #ffd7a6);
+}
+.blue-btn {
+  padding: 15.75px;
+  font-weight: bold;
+  background: #091242;
+  border: none;
+  margin-top: 13.5px;
+  color: white;
+  width: 9rem;
+}
+
+.blue-btn:hover {
+  color: #ffb629;
+}
+.txt {
+  margin-bottom: 1.8rem;
+}
+
+.debree {
+  position: absolute;
+  margin-top: 5.4px;
+  margin-left: 9.45px;
+}

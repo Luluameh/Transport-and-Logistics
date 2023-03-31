@@ -1,0 +1,32 @@
+.main {
+}
+.min {
+  display: flex;
+  padding: 4em;
+  flex-direction: row;
+  margin-left: 6rem;
+}
+
+.small-text {
+  font-size: 15px;
+  background-color: rgba(88, 88, 90, 0.25);
+  height: 4px;
+  width: 5em;
+  border-left: 5px solid orange;
+  padding-top: 0;
+}
+
+.upper {
+  color: #1c1f35;
+}
+
+.try {
+  display: flex;
+  margin: auto;
+  gap: 3rem;
+}
+.try-sub {
+  font-size: small;
+  color: #666c89;
+}
+/* THE DOWN SIDE WITH CAGO IMAGE*/
