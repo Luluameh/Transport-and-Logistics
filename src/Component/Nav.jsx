@@ -1,9 +1,9 @@
 import React from "react";
 import "./Nav.css";
 import Logo from "../Assests/Logo.png";
-import Time from "../Assests/icons/Time.png";
-import mail from "../Assests/icons/mail.png";
-import call from "../Assests/icons/call.png";
+import Time from "../Assests/IconSide/Time.png";
+import mail from "../Assests/IconSide/mail.png";
+import call from "../Assests/IconSide/call.png";
 import bghero from "../Assests/bghero.jpg";
 import Instagram from "../Assests/Social/Instagram.png";
 import twitter from "../Assests/Social/Twitter.png";

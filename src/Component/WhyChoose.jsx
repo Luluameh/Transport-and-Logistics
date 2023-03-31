@@ -1,11 +1,11 @@
 import React from "react";
 import "./WhyChoose.css";
-import Icon8 from "../Assests/icons/Icon8.png";
-import Icon2 from "../Assests/icons/Icon2.png";
-import Icon3 from "../Assests/icons/Icon3.png";
-import Icon4 from "../Assests/icons/Icon4.png";
-import Icon5 from "../Assests/icons/Icon5.png";
-import Icon6 from "../Assests/icons/Icon6.png";
+import Icon8 from "../Assests/IconSide/Icon8.png";
+import Icon2 from "../Assests/IconSide/Icon2.png";
+import Icon3 from "../Assests/IconSide/Icon3.png";
+import Icon4 from "../Assests/IconSide/Icon4.png";
+import Icon5 from "../Assests/IconSide/Icon5.png";
+import Icon6 from "../Assests/IconSide/Icon6.png";
 import plane from "../Assests/plane.png";
 import tiny from "../Assests/tiny.png";
 

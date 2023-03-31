@@ -1,8 +1,8 @@
 import React from "react";
 import "./MessageUs.css";
-import Time from "../Assests/icons/Time.png";
-import mail from "../Assests/icons/mail.png";
-import call from "../Assests/icons/call.png";
+import Time from "../Assests/IconSide/Time.png";
+import mail from "../Assests/IconSide/mail.png";
+import call from "../Assests/IconSide/call.png";
 import one from "../Assests/MessageUsImg/one.png";
 import two from "../Assests/MessageUsImg/two.png";
 import three from "../Assests/MessageUsImg/three.png";

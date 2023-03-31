@@ -1,11 +1,11 @@
 import React from "react";
 import "./Card.css";
-import _ from "../Assests/_.png";
-import _i from "../Assests/_i.png";
+import view from "../Assests/view.png";
+import view2 from "../Assests/view2.png";
 import User from "../Assests/User.png";
 import User2 from "../Assests/User2.png";
-import circle from "../Assests/icons/circle.png";
-import Star from "../Assests/icons/Star.png";
+import circle from "../Assests/IconSide/circle.png";
+import Star from "../Assests/IconSide/Star.png";
 
 const Card = () => {
   return (
@@ -15,8 +15,8 @@ const Card = () => {
         <div className="title">
           <h1>What Our Customer Say</h1>
           <div className="img-side">
-            <img src={_i} alt="" />
-            <img src={_} alt="" />
+            <img src={view2} alt="" />
+            <img src={view} alt="" />
           </div>
         </div>
         {/**card */}

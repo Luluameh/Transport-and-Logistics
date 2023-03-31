@@ -2,8 +2,8 @@ import React from "react";
 import "./WhyUs.css";
 import Photo from "../Assests/Photo.png";
 import Images from "../Assests/Images.png";
-import Icon8 from "../Assests/icons/Icon8.png";
-import Icon9 from "../Assests/icons/Icon9.png";
+import Icon8 from "../Assests/IconSide/Icon8.png";
+import Icon9 from "../Assests/IconSide/Icon9.png";
 
 const WhyUs = () => {
   return (
